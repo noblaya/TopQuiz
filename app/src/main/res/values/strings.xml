@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="ScoreText">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="Lead1">TextView</string>
+    <string name="Lead2">TextView</string>
+    <string name="Lead3">TextView</string>
+    <string name="Lead4">TextView</string>
+</resources>
